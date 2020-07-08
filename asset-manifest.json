@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/blaise-transit-fall-2020/static/css/main.47eec2ba.chunk.css",
+    "main.js": "/blaise-transit-fall-2020/static/js/main.d5986430.chunk.js",
+    "main.js.map": "/blaise-transit-fall-2020/static/js/main.d5986430.chunk.js.map",
+    "runtime-main.js": "/blaise-transit-fall-2020/static/js/runtime-main.37dc6eba.js",
+    "runtime-main.js.map": "/blaise-transit-fall-2020/static/js/runtime-main.37dc6eba.js.map",
+    "static/css/2.b4a16772.chunk.css": "/blaise-transit-fall-2020/static/css/2.b4a16772.chunk.css",
+    "static/js/2.3553c027.chunk.js": "/blaise-transit-fall-2020/static/js/2.3553c027.chunk.js",
+    "static/js/2.3553c027.chunk.js.map": "/blaise-transit-fall-2020/static/js/2.3553c027.chunk.js.map",
+    "index.html": "/blaise-transit-fall-2020/index.html",
+    "precache-manifest.15d96d4ada4c33fda1a6dce6442298f7.js": "/blaise-transit-fall-2020/precache-manifest.15d96d4ada4c33fda1a6dce6442298f7.js",
+    "service-worker.js": "/blaise-transit-fall-2020/service-worker.js",
+    "static/css/2.b4a16772.chunk.css.map": "/blaise-transit-fall-2020/static/css/2.b4a16772.chunk.css.map",
+    "static/css/main.47eec2ba.chunk.css.map": "/blaise-transit-fall-2020/static/css/main.47eec2ba.chunk.css.map",
+    "static/js/2.3553c027.chunk.js.LICENSE.txt": "/blaise-transit-fall-2020/static/js/2.3553c027.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37dc6eba.js",
+    "static/css/2.b4a16772.chunk.css",
+    "static/js/2.3553c027.chunk.js",
+    "static/css/main.47eec2ba.chunk.css",
+    "static/js/main.d5986430.chunk.js"
+  ]
+}
